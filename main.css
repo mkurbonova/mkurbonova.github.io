@@ -1,0 +1,118 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  color: #c8a2c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: bold;
+  text-align: center;
+}
+body {
+  background-color: rgb(250, 185, 132);
+}
+html {
+  font-size: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  width: 66vw;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.prosto {
+  text-align: center;
+}
+
+form input {
+  width: 51%;
+  height: 100px;
+  border: 2px solid black;
+  background-color: rgb(250, 185, 132);
+  text-align: center;
+  padding: 2px;
+  margin-left: 8%;
+}
+input::placeholder {
+  text-align: center;
+}
+form label {
+  width: 50%;
+  max-width: 80ch;
+  height: 5rem;
+  padding: 0.5rem;
+  border: 2px solid black;
+  background-color: rgb(250, 185, 132);
+}
+
+form button[type='submit'] {
+  border: 2px solid rgb(255, 153, 0);
+  padding: 0.5rem;
+  color: rgb(255, 153, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+form button[type='submit']:active {
+  border: 2px solid black;
+  padding: 0.5rem;
+  color: rgb(255, 153, 0);
+  background-color: rgb(0, 0, 0);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+li {
+  display: inline-block;
+  width: 100%;
+  max-width: 80ch;
+  margin-bottom: 1rem;
+  border: 2px solid;
+  padding: 1.25rem;
+}
+
+li > * {
+  max-width: calc(50% - 1.25rem);
+}
+
+li p:first {
+  margin-right: 1rem;
+  word-wrap: break-word;
+}
+
+li div {
+  display: flex;
+  align-items: center;
+}
+
+li div button[type='button'] {
+  cursor: pointer;
+  appearance: none;
+  border: none;
+  background-color: transparent;
+}
+
+li div button[type='button']:active,
+li div button[type='button']:focus {
+  text-shadow: 1px 1px 1px black;
+}
+
+li div > *:not(button:last-of-type) {
+  margin-right: 1rem;
+}
+#k_id_email {
+  width: 30%;
+  height: 50px;
+  text-align: center;
+}
+.options {
+  width: 15%;
+  height: 50px;
+  text-align: center;
+}
+.votes {
+  margin-left: 20%;
+}
