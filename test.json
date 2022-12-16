@@ -1,0 +1,230 @@
+[
+  {
+    "Store": "Store",
+    "OpenHours22dec": "OpenHours22dec",
+    "OpenHours23dec": "OpenHours23dec",
+    "OpenHours31dec": "OpenHours31dec"
+  },
+  {
+    "Store": "Bahne 2 Horsens",
+    "OpenHours22dec": "11:00 - 17:30",
+    "OpenHours23dec": "11:00 - 18:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Aalborg",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Aalborg  Skalborg",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Aalborg (Skalborg)",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Aalborg Skalborg",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Aarhus",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": "10:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Amager",
+    "OpenHours22dec": "10:00 - 19:00",
+    "OpenHours23dec": "10:00 - 19:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne City 2",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": "10:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Esbjerg",
+    "OpenHours22dec": "10:00 - 19:00",
+    "OpenHours23dec": "10:00 - 19:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Fields  Kbh S",
+    "OpenHours22dec": "10:00 - 22:00",
+    "OpenHours23dec": "10:00 - 22:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Fields (Kbh S)",
+    "OpenHours22dec": "10:00 - 22:00",
+    "OpenHours23dec": "10:00 - 22:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Fields Kbh S",
+    "OpenHours22dec": "10:00 - 22:00",
+    "OpenHours23dec": "10:00 - 22:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Fisketorvet  Kbh V",
+    "OpenHours22dec": "10:00 - 22:00",
+    "OpenHours23dec": "10:00 - 22:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Fisketorvet (Kbh V)",
+    "OpenHours22dec": "10:00 - 22:00",
+    "OpenHours23dec": "10:00 - 22:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Fisketorvet Kbh V",
+    "OpenHours22dec": "10:00 - 22:00",
+    "OpenHours23dec": "10:00 - 22:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Frederiksberg",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": "10:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Hellerup",
+    "OpenHours22dec": "10:00 - 19:00",
+    "OpenHours23dec": "10:00 - 19:00",
+    "OpenHours31dec": "10:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Hjrring",
+    "OpenHours22dec": "10:00 - 19:00",
+    "OpenHours23dec": "10:00 - 19:00",
+    "OpenHours31dec": "10:00 - 16:00"
+  },
+  {
+    "Store": "Bahne Hjrring",
+    "OpenHours22dec": "10:00 - 19:00",
+    "OpenHours23dec": "10:00 - 19:00",
+    "OpenHours31dec": "10:00 - 16:00"
+  },
+  {
+    "Store": "Bahne Holbæk",
+    "OpenHours22dec": "10:00 - 17:30",
+    "OpenHours23dec": "10:00 - 18:00",
+    "OpenHours31dec": "10:00 - 12:00"
+  },
+  {
+    "Store": "Bahne Holbk",
+    "OpenHours22dec": "10:00 - 17:30",
+    "OpenHours23dec": "10:00 - 18:00",
+    "OpenHours31dec": "10:00 - 12:00"
+  },
+  {
+    "Store": "Bahne Horsens",
+    "OpenHours22dec": "11:00 - 17:30",
+    "OpenHours23dec": "11:00 - 18:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Kalundborg",
+    "OpenHours22dec": "10:00 - 17:30",
+    "OpenHours23dec": "10:00 - 18:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Lyngby",
+    "OpenHours22dec": "11:00 - 17:30",
+    "OpenHours23dec": "11:00 - 18:00",
+    "OpenHours31dec": "10:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Nstved",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Nstved",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Odense",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": "10:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Regina  Aarhus",
+    "OpenHours22dec": "10:00 - 18:00",
+    "OpenHours23dec": "10:00 - 18:00",
+    "OpenHours31dec": "11:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Regina (Aarhus)",
+    "OpenHours22dec": "10:00 - 18:00",
+    "OpenHours23dec": "10:00 - 18:00",
+    "OpenHours31dec": "11:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Regina Aarhus",
+    "OpenHours22dec": "10:00 - 18:00",
+    "OpenHours23dec": "10:00 - 18:00",
+    "OpenHours31dec": "11:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Roskilde",
+    "OpenHours22dec": "11:00 - 18:00",
+    "OpenHours23dec": "11:00 - 18:00",
+    "OpenHours31dec": "10:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Slagelse",
+    "OpenHours22dec": "10:00 - 18:00",
+    "OpenHours23dec": "10:00 - 18:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Sønderborg",
+    "OpenHours22dec": "10:00 - 18:00",
+    "OpenHours23dec": "10:00 - 18:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne S�nderborg",
+    "OpenHours22dec": "10:00 - 18:00",
+    "OpenHours23dec": "10:00 - 18:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne Trianglen",
+    "OpenHours22dec": "11:00 - 18:00",
+    "OpenHours23dec": "11:00 - 18:00",
+    "OpenHours31dec": "11:00 - 14:00"
+  },
+  {
+    "Store": "Bahne Vejle",
+    "OpenHours22dec": "10:00 - 19:00",
+    "OpenHours23dec": "10:00 - 19:00",
+    "OpenHours31dec": ""
+  },
+  {
+    "Store": "Bahne2 Aalborg",
+    "OpenHours22dec": "10:00 - 20:00",
+    "OpenHours23dec": "10:00 - 20:00",
+    "OpenHours31dec": ""
+  }
+]
